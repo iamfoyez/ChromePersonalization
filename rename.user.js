@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Rename
-// @namespace    https://github.com/iamfoyez
+// @namespace    https://github.com/iamfoyez/ChromePersonalization/
 // @version      0.1
 // @description  Rename and change icons of specific sites
 // @author       iamfoyez
-// @match        *ChromePersonalization*
+// @match        https://*/*
+// @match        *://*/*
+// @match        *
 // @run-at 		 document-end
 // @grant        none
 // ==/UserScript==
