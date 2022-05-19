@@ -1,10 +1,12 @@
 {
     "PowershellDocs": {
-        "url_prefix": "https://docs.microsoft.com/en-us/powershell/*",
-        "custom_icon": ""
+        "url_prefix": "docs.microsoft.com/en-us/powershell/",
+        "custom_icon": "",
+        "new_title": "Powershell Docs"
     },
     "GitHub_test": {
-        "url_prefix": "https://github.com/iamfoyez/flexplayer",
-        "custom_icon": ""
+        "url_prefix": "github.com/iamfoyez/flexplayer",
+        "custom_icon": "",
+        "new_title": "FP - new way to use yt"
     }
 }
