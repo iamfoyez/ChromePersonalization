@@ -8,6 +8,8 @@
 // @match			*://*/*
 // @match			*
 // @icon			https://github.com/iamfoyez/ChromePersonalization/raw/master/images/logo.png
+// @homepage		https://github.com/iamfoyez/ChromePersonalization/
+// @updateURL		
 // @run-at			document-end
 // @grant			none
 // ==/UserScript==
@@ -27,5 +29,6 @@
 
 	// current page url
     let url_current = window.location.href;
+	console.log(url_current)
 
 })();
