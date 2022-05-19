@@ -1,0 +1,10 @@
+{
+    "PowershellDocs": {
+        "url_prefix": "https://docs.microsoft.com/en-us/powershell/*",
+        "custom_icon": ""
+    },
+    "GitHub_test": {
+        "url_prefix": "https://github.com/iamfoyez/flexplayer",
+        "custom_icon": ""
+    }
+}
