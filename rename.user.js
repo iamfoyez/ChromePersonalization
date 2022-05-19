@@ -1,14 +1,15 @@
 // ==UserScript==
-// @name         Rename
-// @namespace    https://github.com/iamfoyez/ChromePersonalization/
-// @version      0.1
-// @description  Rename and change icons of specific sites
-// @author       iamfoyez
-// @match        https://*/*
-// @match        *://*/*
-// @match        *
-// @run-at 		 document-end
-// @grant        none
+// @name			Rename
+// @namespace		https://github.com/iamfoyez/ChromePersonalization/
+// @version			0.1
+// @description		Rename and change icons of specific sites
+// @author			iamfoyez
+// @match			https://*/*
+// @match			*://*/*
+// @match			*
+// @icon			https://github.com/iamfoyez/ChromePersonalization/raw/master/images/logo.png
+// @run-at			document-end
+// @grant			none
 // ==/UserScript==
 
 (function() {
