@@ -24,10 +24,7 @@
     	}
     };
 
-    let url = window.location.href;
-
-    if 
-
-    if (url.includes(""))
+	// current page url
+    let url_current = window.location.href;
 
 })();
