@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name			Rename
-// @namespace		https://github.com/iamfoyez/ChromePersonalization/
+// @name			ChromePersonalizer
+// @namespace		https://github.com/iamfoyez/ChromePersonalizer/
 // @version			0.1
 // @description		Rename and change icons of specific sites
 // @author			iamfoyez
 // @match			https://*/*
 // @match			*://*/*
 // @match			*
-// @icon			https://github.com/iamfoyez/ChromePersonalization/raw/master/images/logo.png
-// @homepage		https://github.com/iamfoyez/ChromePersonalization/
+// @icon			https://github.com/iamfoyez/ChromePersonalizer/raw/master/images/logo.png
+// @homepage		https://github.com/iamfoyez/ChromePersonalizer/
 // @updateURL		
 // @run-at			document-end
 // @grant			none

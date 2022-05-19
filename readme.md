@@ -1,2 +1,2 @@
-# ChromePersonalization
+# ChromePersonalizer
 UserScript for tempermonkey
